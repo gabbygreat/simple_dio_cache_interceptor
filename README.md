@@ -125,7 +125,7 @@ Duration: 100ms
 
 ## Note
 
-This example demonstrates a basic cache usage. If you need more advanced control over your request caching, such as controlling cache strategies, automatic cache expiration, or additional features, check out [dio_caches_interceptor](https://pub.dev/packages/dio_caches_interceptor).
+This example demonstrates a basic cache usage. If you need more advanced control over your request caching, such as controlling cache strategies, automatic cache expiration, or additional features, check out [dio_cache_interceptor](https://pub.dev/packages/dio_cache_interceptor).
 
 ## License
 

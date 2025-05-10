@@ -1,4 +1,4 @@
-# Dio Cache Interceptor Example
+# Dio Cache Interceptor
 
 This repository demonstrates how to use a custom cache interceptor with the [Dio](https://pub.dev/packages/dio) package to cache HTTP responses in memory. It includes an example of how to configure a Dio instance to cache responses for a specified duration and bypass the cache when necessary.
 
@@ -42,7 +42,7 @@ A simple custom cache storage implementation that keeps cached responses in memo
    ```yaml
    dependencies:
      dio: ^5.0.0
-     simple_dio_cache_interceptor: ^0.4.0
+     simple_dio_cache_interceptor: ^1.0.0
    ```
 
 2. **Install dependencies**:
